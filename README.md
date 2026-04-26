@@ -99,7 +99,7 @@ python app.py
 This project is deployed on Hugging Face Spaces.
 
 👉 **Live Demo:**
-https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE_NAME
+https://huggingface.co/spaces/Dhruvilplayz/Student-essay-review-assistant
 
 ---
 
